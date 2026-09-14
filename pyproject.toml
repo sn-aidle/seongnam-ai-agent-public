@@ -1,0 +1,13 @@
+[project]
+name = "seongnam-ai-agent-public"
+version = "0.1.0"
+description = "Public-safe urban AI demonstration assets"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.setuptools.packages.find]
+include = ["data*", "ml*"]
+
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
