@@ -1,0 +1,25 @@
+{
+  "schemaVersion": "public-demo-v1",
+  "provenance": "DUMMY",
+  "generatedBy": "static-public-example",
+  "area": "demo-area",
+  "validTime": "2026-01-01T09:00:00+09:00",
+  "metrics": [
+    {
+      "name": "pedestrian_index",
+      "value": 72,
+      "unit": "index"
+    },
+    {
+      "name": "traffic_speed_example",
+      "value": 18,
+      "unit": "km/h"
+    },
+    {
+      "name": "rainfall_example",
+      "value": 12,
+      "unit": "mm/h"
+    }
+  ],
+  "notice": "화면과 파일 구조 검토를 위한 합성 예제이며 실제 관측 또는 예측 결과가 아닙니다."
+}
