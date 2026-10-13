@@ -4,6 +4,12 @@
 
 실제 데이터 수집·적재, Agent 오케스트레이션, 모델 연동·학습·추론 및 운영 설정은 포함하지 않습니다.
 
+## PoC 시연
+
+[도시운영 AI 목업 열기](https://sn-aidle.github.io/seongnam-ai-agent-public/poc/)
+
+정적 배포 원본은 [`poc/`](poc/)에 있습니다. 모든 수치와 응답은 예시입니다. `main`에 목업 변경을 반영하면 GitHub Actions가 자동 배포합니다.
+
 ## 시작하기
 
 | 모듈 | 공개 내용 |
